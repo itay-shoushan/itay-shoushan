@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itay-shoushan&label=Profile%20views&color=0091ff&style=plastic" alt="itay-shoushan" /> </p>
 
-- 🔭 I’m currently working on [Around the U.S - Back End](https://github.com/AmitGit217/around-express)
+- 🔭 ---------------------------------------------------------------
 
-- 🌱 I’m currently learning **Full Stack Development by Practicum**
+- 🌱 I’m currently learning **Full Stack Development by John Bryce College**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React**
+- 💬 Ask me about **HTML5, CSS3, Typescript, React, Node.js, Express**
 
 - 📫 How to reach me **eitai999@gmail.com**
 
-- ⚡ Fun fact **George Costanza is my alter ego**
-
+- ⚡ Fun fact **I'm a Plane spotter in my free time **
+- 
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/itay-shoushan-222216225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/itay-shoushan-222216225" height="30" width="40" /></a>
