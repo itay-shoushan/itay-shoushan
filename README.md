@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eitai999@gmail.com**
 
-- ⚡ Fun fact **I'm a Plane spotter in my free time **
+- ⚡ Fun fact **I'm a Plane spotter in my free time**
 - 
 <h3 align="center">Connect with me</h3>
 <p align="center">
