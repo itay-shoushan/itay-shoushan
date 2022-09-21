@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amit Bar-Gil</h1>
-<h3 align="center">Full Stack Developer (MERN)</h3>
+<h1 align="center">Itay Shoushan</h1>
+<h3 align="center">Full Stack Developer - MERN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitgit217&label=Profile%20views&color=0091ff&style=plastic" alt="amitgit217" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itay-shoushan&label=Profile%20views&color=0091ff&style=plastic" alt="itay-shoushan" /> </p>
 
 - 🔭 I’m currently working on [Around the U.S - Back End](https://github.com/AmitGit217/around-express)
 
