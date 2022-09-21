@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development by John Bryce College**
 
-- 💬 Ask me about **HTML5, CSS3, Typescript, React, Node.js, Express**
+- 💬 Ask me about **HTML5, CSS3, Typescript, React, Node.js, Express..**
 
 - 📫 How to reach me **eitai999@gmail.com**
 
